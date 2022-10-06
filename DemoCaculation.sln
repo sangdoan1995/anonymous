@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoCaculation", "DemoCaculation\DemoCaculation.csproj", "{3570ADB8-CC0E-471B-BB2A-3ED46D1F8EBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3570ADB8-CC0E-471B-BB2A-3ED46D1F8EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3570ADB8-CC0E-471B-BB2A-3ED46D1F8EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3570ADB8-CC0E-471B-BB2A-3ED46D1F8EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3570ADB8-CC0E-471B-BB2A-3ED46D1F8EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {774E2297-E46F-43F9-91B3-622D84AEDF9B}
+	EndGlobalSection
+EndGlobal
